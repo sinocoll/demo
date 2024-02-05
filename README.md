@@ -23,9 +23,7 @@ bash <(curl -fsSLk https://raw.githubusercontent.com/bulianglin/demo/main/xrayL.
 
 <details>
 
-<summary>不良林仓库原文</summary>
-
-### You can add a header
+<summary>## 不良林仓库原文</summary>
 
 
 #### RouteForwarder https://youtu.be/dpmnkKhBFtc
