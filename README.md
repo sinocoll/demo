@@ -21,7 +21,12 @@ bash <(curl -fsSLk https://raw.githubusercontent.com/bulianglin/demo/main/xrayL.
 
 ***
 
-:u7981::u7981::u7981::u7981::u7981::u7981::u7981::u7981::u7981:
+<details>
+
+<summary>不良林仓库原文</summary>
+
+### You can add a header
+
 
 #### RouteForwarder https://youtu.be/dpmnkKhBFtc
 
@@ -48,4 +53,10 @@ bash <(curl -fsSLk https://raw.githubusercontent.com/bulianglin/demo/main/xrayL.
 3、切换测速配置文件失败：clash内核不允许 h2/grpc 的节点tls为false，解决方法是将传输协议为h2或者grpc的节点删除或者使用Xray内核测速
 
 ##### 订阅转换盗取节点 https://youtu.be/u-tg9hJHLO0
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 
