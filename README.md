@@ -3,6 +3,13 @@
 > demo 转自 [不良林仓库](https://github.com/bulianglin/demo)
 ```
 
+
+
+```markdown
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+```
+
 ###### > demo 转自 [不良林仓库](https://github.com/bulianglin/demo)
 
 
