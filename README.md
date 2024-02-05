@@ -23,7 +23,7 @@ bash <(curl -fsSLk https://raw.githubusercontent.com/bulianglin/demo/main/xrayL.
 
 <details>
 
-<summary>## 不良林仓库原文</summary>
+<summary>##demo原仓内容介绍</summary>
 
 
 #### RouteForwarder https://youtu.be/dpmnkKhBFtc
