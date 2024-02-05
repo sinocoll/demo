@@ -23,7 +23,7 @@ bash <(curl -fsSLk https://raw.githubusercontent.com/sinocoll/demo/main/xrayL.sh
 
 <details>
 
-<summary>##demo原仓内容介绍</summary>
+<summary>以下是不良林仓库介绍</summary>
 
 
 #### RouteForwarder https://youtu.be/dpmnkKhBFtc
